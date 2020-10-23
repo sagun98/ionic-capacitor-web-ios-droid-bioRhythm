@@ -29,7 +29,7 @@ For Live Reload in Android Studio emulator, add following in capacitor.config.js
 
 ## Fix the header thingy in IOS app 
 - Add following in /public/index.html      
-- <meta name="viewport" content="viewport-fit=cover, width=device-width, initial-scale=1" />
+```<meta name="viewport" content="viewport-fit=cover, width=device-width, initial-scale=1" />```
 
 ## Resource generator
 - npm i -g cordova-res
